@@ -1,0 +1,56 @@
+cursos:
+  kotlin_oo:
+    title: Kotlin primeiros passos e Orientação a Objetos
+    alura: https://www.alura.com.br/curso-online-docker-e-docker-compose
+    form_start_course: https://docs.google.com/forms/d/e/1FAIpQLSdtkyAvrD5IKc4cB7oOOs6AC72DVxGah9Vy08bywhyBhxynPQ/viewform
+    form_end_course: https://docs.google.com/forms/d/e/1FAIpQLSdtkyAvrD5IKc4cB7oOOs6AC72DVxGah9Vy08bywhyBhxynPQ/viewform
+    form_challenge: N/A
+    order: 1
+  kotlin_heranca:
+    title: Kotlin herança, polimorfismo e interface
+    alura: https://www.alura.com.br/curso-online-kotlin-heranca-polimorfismo-interface
+    conteudo: N/A
+    form_start_course: https://docs.google.com/forms/d/e/1FAIpQLSc2ALmj3yZbd_38BTyvXMyUPFwMa5h0P3pvnm3MRxqNtV9TAA/viewform
+    form_end_course: https://docs.google.com/forms/d/e/1FAIpQLSc2ALmj3yZbd_38BTyvXMyUPFwMa5h0P3pvnm3MRxqNtV9TAA/viewform
+    form_challenge: N/A
+    order: 2
+  kotlin_composicao:
+    title: Kotlin recursos da linguagem com pacotes e composição
+    alura: https://www.alura.com.br/curso-online-kotlin-recursos-da-linguagem-com-pacotes-e-composicao
+    conteudo: N/A
+    form_start_course: https://docs.google.com/forms/d/e/1FAIpQLScsUzKYF63yiR30CL5bmzopYZaF3G3n3T0y8wNSjcAu6mWN9w/viewform
+    form_end_course: https://docs.google.com/forms/d/e/1FAIpQLScsUzKYF63yiR30CL5bmzopYZaF3G3n3T0y8wNSjcAu6mWN9w/viewform
+    form_challenge: N/A
+    order: 3
+  kotlin_exceptions:
+    title: Kotlin lidando com exceptions e referências nulas
+    alura: https://www.alura.com.br/curso-online-kotlin-exceptions-null-safety
+    conteudo: N/A
+    form_start_course: https://docs.google.com/forms/d/e/1FAIpQLSd5UXzJTdOFziQRzJeEck-KJYyKczJCNi8Vo3DEpEpoib5fUA/viewform
+    form_end_course: https://docs.google.com/forms/d/e/1FAIpQLSd5UXzJTdOFziQRzJeEck-KJYyKczJCNi8Vo3DEpEpoib5fUA/viewform
+    form_challenge: N/A
+    order: 4
+  kotlin_arrays:
+    title: Kotlin Desenvolva com coleções, arrays e listas
+    alura: https://cursos.alura.com.br/course/kotlin-introducao-collections-arrays-listas
+    conteudo: N/A
+    form_start_course: https://docs.google.com/forms/d/e/1FAIpQLSdUpx14GOUcO0a79VZjrlTLQZAuUTMA8zF9Ls5dn4diiZr7HA/viewform
+    form_end_course: https://docs.google.com/forms/d/e/1FAIpQLSdUpx14GOUcO0a79VZjrlTLQZAuUTMA8zF9Ls5dn4diiZr7HA/viewform
+    form_challenge: N/A
+    order: 5
+  kotlin_set_map:
+    title: Kotlin Collections Set e Map
+    alura: https://www.alura.com.br/curso-online-kotlin-collections-set-map
+    conteudo: N/A
+    form_start_course: https://docs.google.com/forms/d/e/1FAIpQLScCRlxJQpilUolVl6W9K7qcstzJHSc8j-KrasqQwTYNmi9yPA/viewform
+    form_end_course: https://docs.google.com/forms/d/e/1FAIpQLScCRlxJQpilUolVl6W9K7qcstzJHSc8j-KrasqQwTYNmi9yPA/viewform
+    form_challenge: N/A
+    order: 6
+  kotlin_funcional:
+    title: Kotlin recursos do paradigma funcional
+    alura: https://www.alura.com.br/curso-online-kotlin-recursos-do-paradigma-funcional
+    conteudo: N/A
+    form_start_course: https://docs.google.com/forms/d/e/1FAIpQLSegh9gOQbjnzOq7i9HiR9huu440Fwi2B08koVZwPfkJpHCavQ/viewform
+    form_end_course: https://docs.google.com/forms/d/e/1FAIpQLSegh9gOQbjnzOq7i9HiR9huu440Fwi2B08koVZwPfkJpHCavQ/viewform
+    form_challenge: N/A
+    order: 7
